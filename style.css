@@ -1,27 +1,27 @@
 .tab1{
     background-color: lightpink;
-    height: 20px;
-    width: 100px;
+    height: 50px;
+    width: 150px;
     display: inline-block;
 }
 
 .tab2{
 background-color: lightcyan;
-    height: 20px;
-    width: 100px;
+    height: 50px;
+    width: 150px;
     display: inline-block;
 }
 
 .content1{   
     background-color: lightskyblue;
-    height: 100px;
-    width: 200px;
+    height: 150px;
+    width: 250px;
 }
 
 .content2{   
     background-color: rgb(4, 255, 34);
-    height: 100px;
-    width: 200px;
+    height: 150px;
+    width: 250px;
 }
 
 
